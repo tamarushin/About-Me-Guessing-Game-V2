@@ -1,0 +1,96 @@
+/*app styles*/
+header {
+  background: rgb(255,182,193);
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+  width: 775px;
+}
+
+footer{
+    background: rgb(255,182,193);
+    text-align: center;
+    padding: 20px;
+    width: 775px;
+    height: 130px;
+    z-index: 10;
+    margin-top: 475px;
+    position: relative;
+    clear: both;
+}
+
+
+body {
+  background-color: #F0E68C;
+}
+
+h1{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+p{
+  margin-bottom: 20px;
+}
+
+h2{
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.intro{
+  position: absolute;
+  font-weight: bold;
+  font-size: 36px;
+  left: 0px;
+  top: 60px;
+  line-height: 1.5;
+  text-align: left;
+  width: 750px;
+  padding: 10px;
+}
+
+.stitle{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  line-height: 1.9;
+  text-align: left;
+  font-size: 25px;
+  width: 600px;
+  padding: 10px;
+  }
+
+.ftitle{
+  position: absolute;
+  right: 20px;
+  top: 435px;
+  line-height: 1.9;
+  text-align: left;
+  font-size: 25px;
+  width: 600px;
+  padding: 10px;
+}
+.image {
+  border: 3px solid #000000;
+}
+
+.skills  {
+  position: absolute;
+  right: 0px;
+  top: 75px;
+  text-align: left;
+  font-size: 18px;
+  width: 600px;
+  padding: 10px;
+}
+
+.favs {
+  position: absolute;
+  right: 0px;
+  top: 500px;
+  text-align: left;
+  font-size: 18px;
+  width: 600px;
+  padding: 10px;
+}
