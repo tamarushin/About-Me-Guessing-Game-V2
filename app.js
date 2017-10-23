@@ -1,5 +1,7 @@
 'use strict';
 
+var function myFunction() { //function added during pair programming
+
 var correctcounters = 0
 // introducion
 var user = prompt('Welcome! What is your name?');
@@ -84,3 +86,7 @@ alert('Correct!');
 correctcounters++;
 
 alert('you got ' +   correctcounters + ' out of 7');
+
+}
+
+myFunction ();
